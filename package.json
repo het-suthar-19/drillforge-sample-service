@@ -1,0 +1,12 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Fake auth service for DrillForge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
